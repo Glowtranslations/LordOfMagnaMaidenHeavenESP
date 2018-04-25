@@ -40,7 +40,7 @@ https://github.com/wmltogether/DARC_tool
 
 https://github.com/IcySon55/Kuriimu
 
-* Modificación de elvi por Darkmet98
+* Modificación de elvi, ExHeader y code.bin por Darkmet98
 
 * Modificación de textos "nxtxt" por Raugo
 
