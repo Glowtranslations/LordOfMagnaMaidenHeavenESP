@@ -15,11 +15,11 @@ Aviso: Si no te has pasado el juego, no abras ningún reporte que no sea tuyo pa
 ## Guía para Lord Of Magna: Maiden Heaven  (próximamente)
 http://www.glowtranslations.tk
 
-## Tema de Lord Of Magna: Maiden Heaven para 3DS (próximamente)
-http://www.glowtranslations.tk
+## Tema de Lord Of Magna: Maiden Heaven para 3DS
+https://themeplaza.eu/item/6065
 
 ## Changelog
-### Juego completo V1 (próximamente)
+### Juego completo V1 
 * Versión inicial
 
 ## F.A.Q. de errores sobre el parcheador
