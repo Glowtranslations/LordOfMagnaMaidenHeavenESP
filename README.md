@@ -14,10 +14,12 @@ Aviso: Si no te has pasado el juego, no abras ningún reporte que no sea tuyo pa
 
 ## Guía para Lord Of Magna: Maiden Heaven  (próximamente)
 ![Glowtranslations](https://raw.githubusercontent.com/Glowtranslations/LordOfMagnaMaidenHeavenESP/master/guia.png)
+
 http://www.glowtranslations.tk
 
 ## Tema de Lord Of Magna: Maiden Heaven para 3DS
 ![Glowtranslations](https://raw.githubusercontent.com/Glowtranslations/LordOfMagnaMaidenHeavenESP/master/theme.png)
+
 https://themeplaza.eu/item/6065
 
 ## Changelog
@@ -37,6 +39,16 @@ https://themeplaza.eu/item/6065
 ### Me sale un error distinto a la que aparece en el F.A.Q.
 * Escríbenos en el apartado de "Issues" de esta misma página y nos indicas que pasa.
 
+## F.A.Q. de errores sobre el juego.
+### "Me sale la pantalla de carga y guardado con elementos en inglés."
+* No tienes la última versión de Luma (9.0 o superior). Actualiza a la última versión - https://github.com/AuroraWright/Luma3DS/releases/latest
+### "El juego me va muy lento, se ha quedado pillado y/o me sale un mensaje de error de luma aleatoriamente."
+* Puede ser que la tarjeta de memoria este estropeada, prueba con otros juegos a ver como va.
+* Copia tus datos y formatea la tarjeta de memoria a fat32 con un tamaño de asignación a 32KB, eso normalmente lo soluciona.
+* No tienes la última versión de Luma (9.0 o superior), el juego necesita parches adicionales al ejecutable y exheader para arreglar ese tipo de problemas. Actualiza a la última versión - https://github.com/AuroraWright/Luma3DS/releases/latest
+### "Dentro de la torre de Kaiser o al hacer misiones opcionales con un nivel superior al 76, el juego se vuelve muy lento."
+* Eso es cosa del juego ya que está mal optimizado y en las old incluso con los parches de memoria extendida, se queda lento. En las new también pero se nota menos. Una solución temporal es poner el zoom al máximo y se puede jugar en condiciones.
+
 ## Herramientas usadas en la traducción
 * Descompresión y compresión de arc 
 
@@ -46,7 +58,7 @@ https://github.com/wmltogether/DARC_tool
 
 https://github.com/IcySon55/Kuriimu
 
-* Modificación de elvi, ExHeader y code.bin por Darkmet98
+* Modificación de elvi, bclyt, ExHeader y code.bin por Darkmet98
 
 * Modificación de textos "nxtxt" por Raugo
 
